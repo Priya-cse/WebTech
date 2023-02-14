@@ -1,3 +1,4 @@
-##DUGC module
+<h2>DUGC module</h2>
 <br>
-Lab CIE Analysis.
+<br>
+<p>Lab CIE Analysis.
