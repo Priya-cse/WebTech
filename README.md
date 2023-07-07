@@ -1,3 +1,11 @@
-<h2>DUGC module</h2>
-<br>
-<p>Lab CIE Analysis.
+# DUGC
+
+## MODULES
+
+  - Minor Analysis
+  - End sem Analysis
+  - Lab Analysis
+  - Course Withdrawal
+  - Circular
+  - Eligibility
+  - Makeup Minor
